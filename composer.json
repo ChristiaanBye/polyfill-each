@@ -1,0 +1,20 @@
+{
+    "name": "christiaanbye/polyfill-each",
+    "description": "PHP 8.x polyfill for the removed each() function",
+    "keywords": ["polyfill", "php", "each", "shim", "compatibility"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christiaan Bye",
+            "email": "christiaanbye@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.4 || ^7.0 || ^8.0"
+    },
+    "autoload": {
+        "files": [
+            "polyfill-each.php"
+        ]
+    }
+}
