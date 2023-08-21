@@ -6,7 +6,7 @@ It is therefore not really a polyfill but rather a shim as it provides legacy fu
 
 Prerequisites
 ---
-* PHP 5.4 or later, though the shim will only take effect in PHP 8.x
+* PHP 5.3 or later, though the shim will only take effect in PHP 8.x
 
 Installation
 ---
